@@ -1,0 +1,30 @@
+.main{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pagina{
+    display:none
+}
+
+.active{
+    display: block;
+}
+
+nav{
+    bottom: 0!important;
+    position: fixed!important;
+    margin-left: 50px;
+}
+
+img{
+    border-radius: 50px;
+}
+
+body{
+    background-color: rgb(233, 233, 238);
+}
+
+#minititle {
+    color: brown;
+}
